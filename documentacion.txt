@@ -1,0 +1,9 @@
+git config --global user.username "Juan"
+git config --global user.email "Juan"
+
+git init
+git status -s
+git add index.html
+git commit -m "Agregar titulo. Primer parrafo"
+git log --oneline
+$ git reset --hard 0d25094
