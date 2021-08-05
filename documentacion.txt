@@ -11,3 +11,6 @@ $ git reset --hard 0d25094
 
 todos los archivos:
 git add .
+
+dos en uno el add y el commit:
+$ git commit -am "Parrafo y tamano de fuente"
