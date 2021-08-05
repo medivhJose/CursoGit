@@ -7,3 +7,7 @@ git add index.html
 git commit -m "Agregar titulo. Primer parrafo"
 git log --oneline
 $ git reset --hard 0d25094
+
+
+todos los archivos:
+git add .
